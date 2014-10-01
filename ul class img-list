@@ -1,0 +1,17 @@
+    <ul class="img-list">
+        <li>
+            <a href="records.asp"><img src="images/main-adriennekerr.png" alt="adriennekerr" width: "200" height="200" /></a>
+            <span class="text-content"><span>records</span></span>
+        </li>
+        <li>
+            <a href="records.asp"><img src="images/kingtuff.jpg" alt="kingtuff" width: "200" height="200" /></a>
+            <span class="text-content"><span>records</span></span>
+        </li>
+        <li>
+            <a href="records.asp"><img src="images/posse.jpg" alt="Posse" width: "200" height="200" /></a>
+            <span class="text-content"><span>records</span></span>
+        </li>
+        <li>
+            <a href="records.asp"><img src="images/preview-danny.jpg" alt="photography" width: "200" height="200" /></a>
+            <span class="text-content"><span>records</span></span>
+    </ul>
